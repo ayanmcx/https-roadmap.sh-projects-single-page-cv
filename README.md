@@ -1,5 +1,6 @@
 ﻿# Single Page CV
 **Live Project URL:** https://ayanmcx.github.io/https-roadmap.sh-projects-single-page-cv/
+https://ayanmcx.github.io/https-roadmap.sh-projects-single-page-cv/
 
 ## Description
 A single-page CV built with HTML only for roadmap.sh project.
